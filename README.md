@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Project from Udemy course.
+
+Examples of react state use.
+
 ## Available Scripts
 
 In the project directory, you can run:
